@@ -15,7 +15,7 @@
         </Grid.ColumnDefinitions>
         <TextBox x:Name="search_input" HorizontalAlignment="Left" Padding="12" Margin="0,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="541" Height="53" TextChanged="TextBox_TextChanged" FontSize="18" Grid.ColumnSpan="2" Grid.Column="1"/>
         <Button Content="Поиск" HorizontalAlignment="Left" Margin="0,110,0,0" VerticalAlignment="Top" Height="73" Width="541" Click="SearchButton_Click" FontSize="18" Grid.ColumnSpan="2" Grid.Column="1"/>
-        <Button Content="hh.ru" HorizontalAlignment="Left" Margin="0,251,0,0" VerticalAlignment="Top" Height="46" Width="131" FontSize="16" Click="HHRUButton_Click" Grid.Column="1"/>
+        <Button Content="hh.kz" HorizontalAlignment="Left" Margin="0,251,0,0" VerticalAlignment="Top" Height="46" Width="131" FontSize="16" Click="HHRUButton_Click" Grid.Column="1"/>
         <Button Content="2gis.kz" HorizontalAlignment="Left" Margin="45,251,0,0" VerticalAlignment="Top" Height="46" Width="132" FontSize="16" Click="DoubleGisButton_Click" Grid.Column="2"/>
         <Button Content="stat.gov.kz" HorizontalAlignment="Left" Margin="243,251,0,0" VerticalAlignment="Top" Height="46" Width="132" FontSize="16" Click="StatGovButton_Click" Grid.Column="2"/>
         <Label Grid.Column="2" Cursor="Hand" Content="x" HorizontalAlignment="Left" Margin="344,54,0,0" VerticalAlignment="Top" FontSize="22"  MouseLeftButtonDown="InputClearButton_Click" Height="39" Width="20"/>

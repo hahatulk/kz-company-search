@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Github\\CompanyHelper\\CompanyHelper\\CompanyHelper\\CompanyHelper.csproj",
+      "projectUniqueName": "C:\\Github\\CompanyHelper\\CompanyHelper\\CompanyHelper.csproj",
       "projectName": "CompanyHelper",
-      "projectPath": "C:\\Github\\CompanyHelper\\CompanyHelper\\CompanyHelper\\CompanyHelper.csproj",
+      "projectPath": "C:\\Github\\CompanyHelper\\CompanyHelper\\CompanyHelper.csproj",
       "packagesPath": "C:\\Users\\hahatulk\\.nuget\\packages\\",
-      "outputPath": "C:\\Github\\CompanyHelper\\CompanyHelper\\CompanyHelper\\obj\\publish\\win-x86\\",
+      "outputPath": "C:\\Github\\CompanyHelper\\CompanyHelper\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hahatulk\\AppData\\Roaming\\NuGet\\NuGet.Config",
